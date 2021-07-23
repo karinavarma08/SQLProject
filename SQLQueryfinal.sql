@@ -238,17 +238,3 @@ From PortfolioProject..CovidDeaths
 Group by Location, Population, date
 order by PercentPopulationInfected desc
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
